@@ -1,0 +1,11 @@
+torch
+torchvision
+opencv-python
+opencv-python-headless
+deep_sort_realtime
+numpy
+websockets
+flask
+pandas
+requests
+pillow
