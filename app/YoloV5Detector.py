@@ -3,8 +3,6 @@ import torch
 import warnings
 warnings.filterwarnings("ignore")
 
-#TODO: FIX DOCUMENTATION
-
 class YoloV5Detector():
     """
     YoloV5Detector class for detecting objects using YOLOv5 model.
